@@ -11,4 +11,4 @@ Run this file if you want to
 3. Read questions from a table
 
 # main.py
-This file contaisn the GUI, the main purpose of this repo. It asks the user to sleect a category, then gives the user the questions that belong to the corresponding table. It tells the user correct or incorrect. Then, once the questions have been gone through, it goes back to the select category window should th user want to pick another quiz. 
+This file contains the GUI, the main purpose of this repo. It asks the user to sleect a category, then gives the user the questions that belong to the corresponding table. It tells the user correct or incorrect. Then, once the questions have been gone through, it goes back to the select category window should th user want to pick another quiz. 
